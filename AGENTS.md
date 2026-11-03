@@ -14,6 +14,7 @@ gestures click. Built by **first-year Mechatronics Engineering students**
 (University of Waterloo area) as a **resume/portfolio project**.
 
 - Owner: Keshav (GitHub repo owner) and teammates
+- Repo: https://github.com/KeshavV14/Facetracker (branch `main`)
 - Platform the team uses: **Windows + VS Code**, Python
 - Budget: ~$0 (laptop webcam). A wearable ESP32+IMU version is a planned extension.
 - Skill level: beginners. Explain things plainly; prefer one-click scripts
@@ -169,3 +170,4 @@ and add a dated line to the log below.
 
 ### Log
 - 2026-11-02 — Project created: core logic, app, target test, Windows scripts, README, 25 tests. Not yet run on a real webcam.
+- 2026-11-02 — Pushed to GitHub (KeshavV14/Facetracker), added AGENTS.md / PROJECT.md / CLAUDE.md.
